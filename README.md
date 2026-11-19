@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @93flyaway
-- 👀 I’m interested in ... blockchains, smart contracts, web development and possibly more!
-- 🌱 I’m currently learning ... python. Getting my feet wet!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Hoon Kang
 
-<!---
-93flyaway/93flyaway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work in operations and technical support. I enjoy building small tools that automate repetitive tasks and make information easier to track.
+
+I’ve used Python, Selenium, SQL, and the Google Sheets API in my work.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/hoon-kang-780a9b11b/)
